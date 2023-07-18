@@ -36,7 +36,7 @@
 ![image](https://github.com/ScherbakovM/ContainerizationFour/assets/109952823/093c2722-29f7-4ec3-989c-a9b36b45c68e)
 
 
-Запускаем контейнер но основе нашей сборки 
+Запускаем контейнер на основе нашей сборки 
 
 `docker run -it testbuild`
 
