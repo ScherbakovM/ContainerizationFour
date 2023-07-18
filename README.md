@@ -20,10 +20,10 @@
 Заполняем фаил инструкциями для докера 
 
 
-``FROM python:3  
-COPY test.py ./app/  
-WORKDIR /app/  
-CMD ["python", "test.py"]  ``
+`FROM python:3`    
+`COPY test.py ./app/ `  
+`WORKDIR /app/`    
+`CMD ["python", "test.py"]`   
 
 ![image](https://github.com/ScherbakovM/ContainerizationFour/assets/109952823/0645f248-10bd-403e-9c88-d31d99b0ecc0)
 
