@@ -6,9 +6,9 @@
 
 Для начала создадим папку куда поместим наш __py__ фаил 
 
-`mkdir pyProject`
-`cd pyProject/` - сразу перейдём в неё
-`nano test.py` - создаём __py__  приложение 
+`mkdir pyProject`  
+`cd pyProject/` - сразу перейдём в неё  
+`nano test.py` - создаём __py__  приложение   
 
 
 ![image](https://github.com/ScherbakovM/ContainerizationFour/assets/109952823/ff6e437a-45b6-4985-828a-ba20e219e189)
