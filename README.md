@@ -35,3 +35,11 @@
 
 ![image](https://github.com/ScherbakovM/ContainerizationFour/assets/109952823/093c2722-29f7-4ec3-989c-a9b36b45c68e)
 
+
+Запускаем контейнер но основе нашей сборки 
+
+`docker run -it testbuild`
+
+![image](https://github.com/ScherbakovM/ContainerizationFour/assets/109952823/435dc7e5-34f9-4260-990e-352b677a286a)
+
+
